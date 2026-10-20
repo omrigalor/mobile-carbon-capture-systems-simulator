@@ -1,4 +1,4 @@
-# Mobile Carbon Capture Digital Twin
+# Mobile Carbon Capture Systems Simulator
 
 A transient mass-and-energy model for onboard CO₂ capture on heavy-duty routes.
 It resolves the trade that static capture percentages hide: exhaust changes by
