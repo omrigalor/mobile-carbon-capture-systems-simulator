@@ -1,4 +1,4 @@
-# Mobile Carbon Capture Systems Simulator
+# Route-Adaptive Mobile Carbon Capture Systems Model
 
 A transient mass-and-energy model for onboard CO₂ capture on heavy-duty routes.
 It resolves the trade that static capture percentages hide: exhaust changes by
@@ -6,7 +6,7 @@ the minute, capture has a throughput limit, onboard storage fills, extra mass
 and regeneration consume fuel, and depot offloading determines whether the
 system can keep operating.
 
-![Digital twin architecture](assets/reference.svg)
+![Systems model architecture](assets/reference.svg)
 
 ```bash
 python -m pip install -e .
